@@ -12,10 +12,14 @@ node-red-contrib-password-validator
   * [node_inputs](#node_inputs)
   * [node_outputs](#node_outputs)
   * [Name](#Name)
-  * [Property](#Property)
-  * [Channel](#Channel)
-  * [Samples](#Round_Output)
-  * [Gain](#Gain)
+  * [digits](#digits)
+  * [letters](#letters)
+  * [lowercase](#lowercase)
+  * [uppercase](#uppercase)
+  * [symbols](#symbols)
+  * [spaces](#spaces)
+  * [min](#min)
+  * [max](#max)
 * [Example_Flows](#Example_Flows)
 * [Bugs / Feature request](#bugs--feature-request)
 * [License](#license)
@@ -126,5 +130,8 @@ Thanks to [Tarun Batra AKA tarunbatra](https://github.com/tarunbatra/password-va
 <br>
 <br>
 version 0.2.16 - First Public release
+<br>
+<br>
+version 0.2.17 - correct documentation linking names in MD file
 <br>
 <br>
