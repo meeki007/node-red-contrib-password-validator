@@ -1,0 +1,40 @@
+{
+    "name": "node-red-contrib-password-validator",
+    "version": "0.2.16",
+    "description": "Provides a node-red node for password validation; checks that a password meets your defined requierments.",
+    "dependencies": {
+      "password-validator": ">=5.1.0"
+    },
+    "directories": {
+      "doc": "doc",
+      "icons": "icons"
+    },
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "node-red": {
+      "nodes": {
+        "password-validator": "password-validator.js"
+      }
+    },
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/meeki007/node-red-contrib-password-validator.git"
+    },
+    "keywords": [
+      "node-red",
+      "password-validator",
+      "password validator",
+      "passsword check",
+      "password strength",
+      "password test",
+      "validator",
+      "password"
+    ],
+    "author": "David 'Meeki007' Burrows",
+    "license": "Apache-2.0",
+    "bugs": {
+      "url": "https://github.com/meeki007/node-red-contrib-password-validator/issues"
+    },
+    "homepage": "https://github.com/meeki007/node-red-contrib-password-validator#readme"
+}
